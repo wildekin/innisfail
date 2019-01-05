@@ -1,0 +1,9 @@
+#__nuxt,
+#__layout {
+  height: 100%;
+}
+
+body,
+html {
+  height: 100%;
+}
