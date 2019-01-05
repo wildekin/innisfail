@@ -1,0 +1,16 @@
+{
+  "name": "directory",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "wildekin",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "latest"
+  },
+  "devDependencies": {}
+}
